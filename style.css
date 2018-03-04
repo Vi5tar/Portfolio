@@ -14,9 +14,9 @@
   padding-bottom: 5%;
 }
 
-.padding2 {
-  padding-right: 1%;
-  padding-left: 1%;
+.iconMargin {
+  margin-right: 1%;
+  margin-left: 1%;
 }
 
 .navbar-inverse .navbar-brand:hover {
